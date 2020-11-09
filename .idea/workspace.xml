@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a804939-3770-4e89-a5d1-1e1649b94538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/ChessSimplePVP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/DrawUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/中国象棋.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/开始游戏.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/悔棋.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/棋盘.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/重新开始.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/TestChessSimplePVP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/DrawUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/中国象棋.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/开始游戏.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/悔棋.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/棋盘.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/重新开始.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessV1/src/com/fan/chess/DrawUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChessV1/src/com/fan/chess/DrawUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChessV1/com/fan/chess/DrawUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChessV1/com/fan/chess/DrawUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/Listener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,22 +134,35 @@
       <workItem from="1604680028342" duration="1870000" />
       <workItem from="1604728358441" duration="29925000" />
       <workItem from="1604810998101" duration="594000" />
-      <workItem from="1604897459849" duration="7252000" />
+      <workItem from="1604897459849" duration="9497000" />
+      <workItem from="1604924940419" duration="249000" />
     </task>
+    <task id="LOCAL-00001" summary="基本的走棋功能实现完成">
+      <created>1604908154306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604908154306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基本的走棋功能实现完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本的走棋功能实现完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1604742794834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604742794834" />
-    <state x="293" y="7" key="CommitChangelistDialog2" timestamp="1604729547819">
+    <state x="293" y="7" key="CommitChangelistDialog2" timestamp="1604908149005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="293" y="7" key="CommitChangelistDialog2/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604729547819" />
+    <state x="293" y="7" key="CommitChangelistDialog2/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604908149005" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1604728699861">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -207,26 +175,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="502" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604728754406" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1604907872494">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1604910690167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1603530876622" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907872494" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1604907872493">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604910690167" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1604910690167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="137" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1603530876621" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907872493" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1604907872492">
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604910690167" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1604910690167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="137" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1603530876621" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907872492" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1604907872493">
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604910690167" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1604910690167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="137" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1603530876621" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907872493" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604910690167" />
     <state width="1493" height="172" key="GridCell.Tab.1.bottom" timestamp="1604907769013">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -247,6 +215,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604728664129" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1604908194825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604908194825" />
     <state x="178" y="22" key="new project wizard" timestamp="1604738482442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

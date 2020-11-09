@@ -20,9 +20,9 @@ public class Listener extends MouseAdapter implements ActionListener {
     int columnNum = -1; // 列
     int chessflag = 1;// 红方先走为1, 且, 如果是1, 则为红方走, 如果是2, 则为黑方走
     DrawUI UI;
-    int[][] lianbiao = new int[99999][6];// 棋子初始位置，现在的位置，棋子的编号，棋子占的位本来的棋子的编号
-    int[] curChess = new int[3]; // 数组中的三个位置分别保存 行, 列, flag[rowNum][columnNum]
-    int[] beforeChess = new int[3];
+    int[][] chessList = new int[99999][6]; // 用来保存棋子每一次的移动情况
+    int[] curChess = new int[3]; // 棋子初始位置，现在的位置，棋子的编号，棋子占的位本来的棋子的编号
+    int[] beforeChess = new int[3]; // 数组中的三个位置分别保存 行, 列, flag[rowNum][columnNum]
 
     // 初始化棋盘, 横排为行, 纵列为列
     int[][] flag = new int[][] {
@@ -325,6 +325,31 @@ public class Listener extends MouseAdapter implements ActionListener {
 
         System.out.println("ifFlag = " + ifFlag);
         return ifFlag;
+    }
+
+    // 悔棋方法
+    public void regretChess() {
+        rowNum = -1;
+        if (index > 0) {
+            flag[chessList[index - 1][0]][chessList[index - 1][1]] = chessList[index - 1][4];
+            flag[chessList[index - 1][2]][chessList[index - 1][3]] = chessList[index - 1][5];
+            refreshChessflag();
+            index--;
+        }
+    }
+
+    // 更新悔棋列表
+    public void updateChessList() {
+        // 上一次点击的棋子的行列信息
+        chessList[index][0] = beforeChess[0];
+        chessList[index][1] = beforeChess[1];
+        // 当前点击的棋子的行列信息
+        chessList[index][2] = rowNum;
+        chessList[index][3] = columnNum;
+        // 两次点击的位置的格点信息
+        chessList[index][4] = beforeChess[2];
+        chessList[index][5] = flag[rowNum][columnNum];
+        index++;
     }
 
     @Override
