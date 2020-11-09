@@ -10,7 +10,7 @@ import java.awt.*;
  */
 public class DrawUI extends JPanel {
 
-    Listener ls = new Listener();
+    Listener ls = new Listener(); // 监听器
 
     public void initui() {
         // 创建面板
@@ -18,7 +18,7 @@ public class DrawUI extends JPanel {
         // 设置面板属性
         jf.setSize(1240, 860);
         jf.setTitle("中国象棋");
-        jf.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); // 设置关闭窗体即清楚进程
+        jf.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); // 设置关闭窗体即清除进程
         jf.getContentPane().setBackground(Color.WHITE); // 设置背景颜色为白色，这里如果不 getContentPane 的话，无法起作用
         jf.setLocationRelativeTo(null); // 窗口，null 表示放在屏幕中央
         jf.setResizable(false); // 设置窗体不可放缩

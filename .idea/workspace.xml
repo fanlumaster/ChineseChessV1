@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a804939-3770-4e89-a5d1-1e1649b94538" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/ChessSimplePVP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/DrawUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/中国象棋.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/开始游戏.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/悔棋.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/棋盘.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChessSimplePVP/src/com/fan/chess/image/重新开始.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/TestChessSimplePVP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/DrawUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/中国象棋.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/开始游戏.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/悔棋.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/棋盘.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestChessSimplePVP/src/com/fan/chess/image/重新开始.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessV1/src/com/fan/chess/DrawUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChessV1/src/com/fan/chess/DrawUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChessV1/com/fan/chess/DrawUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChessV1/com/fan/chess/DrawUI.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Users\19833\IdeaProjects\ChineseChessV1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jJfPEw3zcDjhhk5Kv3zKRri9WS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestChessSimplePVP/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\19833\IdeaProjects\ChineseChessV1\TestChessSimplePVP\src" />
+      <recent name="E:\Users\19833\IdeaProjects\ChineseChessV1\ChessSimplePVP\src\com\fan\chess" />
+      <recent name="E:\Users\19833\IdeaProjects\ChineseChessV1\ChessV1\src\com\fan\chess\image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DrawUI (1)">
+    <configuration name="DrawUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fan.chess.DrawUI" />
+      <module name="ChessSimplePVP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawUI (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fan.chess.DrawUI" />
+      <module name="TestChessSimplePVP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fan.chess.DrawUI" />
+      <module name="ChessV1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DrawUI (1)" />
+        <item itemvalue="Application.DrawUI (2)" />
+        <item itemvalue="Application.DrawUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a804939-3770-4e89-a5d1-1e1649b94538" name="Default Changelist" comment="" />
+      <created>1603527088268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603527088268</updated>
+      <workItem from="1603527091152" duration="5000" />
+      <workItem from="1603527105751" duration="11398000" />
+      <workItem from="1603611205355" duration="2069000" />
+      <workItem from="1604680028342" duration="1870000" />
+      <workItem from="1604728358441" duration="29925000" />
+      <workItem from="1604810998101" duration="594000" />
+      <workItem from="1604897459849" duration="7252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1604742794834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604742794834" />
+    <state x="293" y="7" key="CommitChangelistDialog2" timestamp="1604729547819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="293" y="7" key="CommitChangelistDialog2/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604729547819" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1604728699861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604728699861" />
+    <state x="619" y="303" key="Github.ShareDialog" timestamp="1604728737967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="619" y="303" key="Github.ShareDialog/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604728737967" />
+    <state x="502" y="118" key="Github.UntrackedFilesDialog" timestamp="1604728754406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604728754406" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1604907872494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1603530876622" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907872494" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1604907872493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="137" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1603530876621" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907872493" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1604907872492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="137" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1603530876621" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907872492" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1604907872493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="137" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1603530876621" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907872493" />
+    <state width="1493" height="172" key="GridCell.Tab.1.bottom" timestamp="1604907769013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.1.bottom/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907769013" />
+    <state width="1493" height="172" key="GridCell.Tab.1.center" timestamp="1604907769013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.1.center/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907769013" />
+    <state width="1493" height="172" key="GridCell.Tab.1.left" timestamp="1604907769012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.1.left/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907769012" />
+    <state width="1493" height="172" key="GridCell.Tab.1.right" timestamp="1604907769013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.1.right/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604907769013" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1604728664129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604728664129" />
+    <state x="178" y="22" key="new project wizard" timestamp="1604738482442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824/-2560.-185.2048.1112@0.0.1536.824" timestamp="1604738482442" />
+  </component>
+</project>
